@@ -6,7 +6,7 @@ A Java-based desktop application that helps users build and maintain daily habit
 
 ## 🚀 Features
 
-- 🔐 User Authentication (Login & Register)
+- 🔐 User Authentication (Login & Register) 
 - ➕ Add, Update, Delete Habits
 - 📅 Log Daily Habit Completions
 - 📊 View Habit Statistics & Streaks
